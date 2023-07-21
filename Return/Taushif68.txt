@@ -1,0 +1,20 @@
+------------------------ Return Bill -------------------------------
+
+							Date of return: 2022-09-08
+							Date of rent: 2022-09-01
+Customer Name: Taushif
+Phone number: 9809645846
+Bill number: Taushif68
+Number of day Costume rented: 7
+Fine Amount: $2
+
+---------------------------------------------------------------------
+ID	Costume Name		Brand			Price		Quantity
+---------------------------------------------------------------------
+1	Fairy Costume Set		DollarSMart		$18		10
+2	Antman Costume		Marvel INC		$32		10
+---------------------------------------------------------------------
+					    Total Amount: $502.0
+---------------------------------------------------------------------
+			|© 2022 || Costume Rental Shop.|
+---------------------------------------------------------------------
